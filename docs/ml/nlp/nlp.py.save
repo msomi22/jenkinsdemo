@@ -1,0 +1,6 @@
+from nltk import word_tokenize
+
+
+text = ['peter','mwenda','njeru']
+tokens = wors_tokenize(text)
+

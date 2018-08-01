@@ -1,0 +1,20 @@
+
+Spoof MAC in Windows
+
+############### METHOD 1  
+
+1) Device manager
+2) Network adapters
+3) Choose wired or wireless
+4) Double click
+5) Advanced and scroll
+6) Find network address (locally administered address)
+7) See the radio button on the right, uncheck "not present" and check "value"
+8) Here, type your new MAC and press OK
+9) On cmd type "getmac" without quotes
+
+############# METHOD 2  , use a tool called "MAC address changer" 
+
+
+
+############  METHOD 3 , write a C program to do this for you.

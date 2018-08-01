@@ -1,0 +1,5 @@
+uuid|is_active|business_name|business_website|business_mobile|business_email|business_address|business_town|last_updated
+A831A6F6-F3FC-4F90-9643-3F4BDD2BF619|TRUE|Qubintel Solutions Ltd|www.qubintel.co.ke|718953974|info@qubintel.co.ke|022-4092|Nairobi|Sat Dec 06 22:00:42 EAT 2017
+4401CEA6-FC56-4D7A-A347-D2C77DB91D7E|TRUE|Masoko Ltd|www.masoko.com|718953974|info@masoko.com|022-4092|Nairobi|Sat Dec 06 22:00:42 EAT 2017
+CE68F198-1A43-4297-AC2B-D935E19B37D4|TRUE|Jumia Kenya|www.jumia.co.ke|718953974|info@jumia.co.ke|022-4092|Nairobi|Sat Dec 06 22:00:42 EAT 2017
+D8CE3592-9FCC-4365-A348-C1D8E2E0D4FA|FALSE|Kili Mall|www.kilimall.co.ke|718953974|info@kilimall.co.ke|022-4092|Nairobi|Sat Dec 06 22:00:42 EAT 2017
