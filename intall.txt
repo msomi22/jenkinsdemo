@@ -1,0 +1,13 @@
+
+
+export JENKINS_HOME=/opt/Programs/jdks/jdk1.8.0_131
+
+echo $JENKINS_HOME
+
+
+
+
+
+
+
+
