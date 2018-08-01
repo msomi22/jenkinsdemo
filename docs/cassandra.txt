@@ -1,0 +1,14 @@
+Cassandra security
+- Create user and authentication with JMX
+- NoSQL database security has been a weak point.
+- Internal Authentication and Authorization
+- Configure Authentication and Authorization
+- Logging in
+- Create new user
+- Authorization
+- Configure firewall
+- Enable JMX athentication 
+****************************
+Internal Authentication
+****************************
+- 

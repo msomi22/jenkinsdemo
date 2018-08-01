@@ -1,0 +1,35 @@
+
+- sentiment driven approach in enhancing bs processes
+- to enhance means to improve
+- we can improve decision making etc 
+
+ - Is it important to know what people think about a subject?
+ - Yes, it's important to know what people think about a particular subject/event/situation/occurence/entity?
+ - Why is it important?
+ - For informed decision making, gain competative advantage, for planning purposes, 
+ - allowing the majority to have their way and thus staying safe, 
+
+ - challenges; 
+    - people must speak first, otherwise we may not know what is in their mind
+    - sometimes or mostly, people speak lies
+    - most often, people are very subjective
+    - audio-visual cues might be difficult to interplate and/or notice, this might be  big challenge.
+    - use of emoticons can be a challenge to nlp tools
+    - over use of shorthands
+    - multi-lingual, use of multiple languages in a sentense
+    - use of advanced sacarsim
+    - inability to detect jokes 
+    - privacy issues might arise, when people know that their conversations are being analyzed 
+    - limited scope, cam only cover public conversations for privacy reasons
+    - limited use cases due to limited technology; how to capture data in an office set-up where not everyone likes social net platforms
+
+ - how to overcome these challenges
+      - encaurage communication via electronic means, e.g. social network platforms   
+      - discourage use of shorthand and emoticons
+
+- few use cases
+    - twitter, facebook, telegram groups, whatsapp groups, other group chat env
+    - open discussion/meeting; special sound-to-text devices needed
+
+- research problems
+   -      
